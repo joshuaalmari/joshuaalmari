@@ -2,7 +2,7 @@
 <hr>
 
 <p align="justify">
-I'm a licensed Electronics Engineer and Electronics Technician. A <b>Data Analyst</b> experienced in reporting, automation, and dashboard development using <b>Excel, Power Query, SQL, Python, Power BI, Google Looker, and DOMO</b>. I specialize in creating efficient analytics workflows and clear visual reports that help teams make faster, more data-informed decisions.
+I'm a licensed <b> Electronics Engineer </b> and <b> Electronics Technician</b>. A <b>Data Analyst</b> experienced in reporting, automation, and dashboard development using <b>Excel, Power Query, SQL, Python, Power BI, Google Looker, and DOMO</b>. I specialize in creating efficient analytics workflows and clear visual reports that help teams make faster, more data-informed decisions.
 </p>
 
 ---
