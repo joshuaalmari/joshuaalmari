@@ -1,33 +1,43 @@
-# 👋 Hi, I'm Engr. Joshua Almari, ECT
-<hr>
+# 👋 Hi, I'm Engr. Joshua Almari, ECT  
+**Data Analyst | Licensed ECE & ECT | Dashboard & Automation Developer**
+
+---
 
 <p align="justify">
-I'm a licensed <b> Electronics Engineer </b> and <b> Electronics Technician</b>. A <b>Data Analyst</b> experienced in reporting, automation, and dashboard development using <b>Excel, Power Query, SQL, Python, Power BI, Google Looker, and DOMO</b>. I specialize in creating efficient analytics workflows and clear visual reports that help teams make faster, more data-informed decisions.
+Welcome to my portfolio! I'm a licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with a strong focus on <b>data analytics, automation,</b> and <b>dashboard design</b>. I love building systems that simplify reporting, improve accuracy, and turn complex datasets into clear, actionable insights.
 </p>
 
 ---
 
-## 🧰 Tools & Skills
-- **Data Analysis:** Excel, Power Query, SQL, Python (Pandas)
-- **Data Visualization:** Power BI, Google Looker, DOMO
-- **Automation:** Python (Selenium, Playwright)
-- **Data Management:** Cleaning, transformation, and performance tracking
+## 💡 What I Do
+- Develop **automated reporting workflows** using Python and Power Query  
+- Build **interactive dashboards** with Power BI, Google Looker, and DOMO  
+- Streamline data pipelines for **real-time performance tracking**  
+- Create **efficient data transformation logic** for complex reporting setups  
 
 ---
 
-## 📊 Featured Work
+## 🧰 Tools & Technologies
+**Data Analysis:** Excel, Power Query, SQL, Python (Pandas)  
+**Visualization:** Power BI, Google Looker, DOMO  
+**Automation:** Python (Selenium, Playwright)  
+**Other Skills:** Data Cleaning, Workflow Optimization, KPI Design  
+
+---
+
+## 📊 Featured Projects
+🔹 **Production Dashboard (Google Looker + Excel + Python)**  
+A live performance dashboard used by a support team to track metrics like AHT, Adherence, Max Hours, and ACW in real time. Integrated Google Sheets data, automated ETL using Python, and visualized trends in Looker.  
+
 🧩 *More projects coming soon!*  
-For now, here are a few types of work I focus on:
-- Automating recurring reports with Python and Power Query  
-- Building dynamic dashboards in Power BI, Looker, and DOMO  
-- Designing data workflows that improve reporting efficiency  
 
 ---
 
 ## 🌐 Connect With Me
-- **LinkedIn:** [linkedin.com/in/joshua-almari](https://www.linkedin.com/in/joshua-almari-675731313/)
-- **Email:** [joshuaalmari42@gmail.com](mailto:joshuaalmari42@gmail.com)
+- **LinkedIn:** [linkedin.com/in/joshua-almari](https://www.linkedin.com/in/joshua-almari-675731313/)  
+- **Email:** [joshuaalmari42@gmail.com](mailto:joshuaalmari42@gmail.com)  
+- **GitHub:** [github.com/joshuaalmari](https://github.com/joshuaalmari)
 
 ---
 
-⭐ *Thanks for visiting — check back soon for more analytics projects!*
+⭐ *Thanks for visiting! Feel free to explore my repositories — each one showcases a different part of my work in analytics and automation.*
