@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Engr. Joshua Almari, ECT  
-**Data Analyst | Licensed ECE & ECT | Dashboard & Automation Developer**
+**Data Analyst | Dashboard & Automation Developer | Licensed ECE & ECT**
 
 ---
 
@@ -35,17 +35,20 @@ A live performance dashboard used by a support team to track metrics like AHT, A
 
 ## 🌐 Connect With Me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/joshua-almari-675731313/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18"/> 
+    <b>LinkedIn:</b> linkedin.com/in/joshua-almari
+  </a>  
+  <br>
   <a href="mailto:joshuaalmari42@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" height="18"/> 
+    <b>Email:</b> joshuaalmari42@gmail.com
+  </a>  
+  <br>
   <a href="https://github.com/joshuaalmari" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" height="18"/> 
+    <b>GitHub:</b> github.com/joshuaalmari
   </a>
 </p>
 
