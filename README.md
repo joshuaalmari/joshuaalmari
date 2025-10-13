@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Engr. Joshua Almari, ECT
 
 <p align = "justify">
-I'm a licensed Electronics Engineer and Electronics Technician. A **Data Analyst** experienced in reporting, automation, and dashboard development using **Excel, Power Query, SQL, Python, Power BI, Google Looker, and DOMO**. I specialize in creating efficient analytics workflows and clear visual reports that help teams make faster, more data-informed decisions.
+# I'm a licensed Electronics Engineer and Electronics Technician. A **Data Analyst** experienced in reporting, automation, and dashboard development using **Excel, Power Query, SQL, Python, Power BI, Google Looker, and DOMO**. I specialize in creating efficient analytics workflows and clear visual reports that help teams make faster, more data-informed decisions.
 </p>
 ---
 
