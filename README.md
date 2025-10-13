@@ -33,23 +33,17 @@ A live performance dashboard used by a support team to track metrics like AHT, A
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joshua-almari-675731313/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18"/> 
-    <b>LinkedIn:</b> linkedin.com/in/joshua-almari
-  </a>  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18"/> 
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/joshua-almari-675731313/" target="_blank">linkedin.com/in/joshua-almari</a>  
   <br>
-  <a href="mailto:joshuaalmari42@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" height="18"/> 
-    <b>Email:</b> joshuaalmari42@gmail.com
-  </a>  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" height="18"/> 
+  <b>Email:</b> <a href="mailto:joshuaalmari42@gmail.com">joshuaalmari42@gmail.com</a>  
   <br>
-  <a href="https://github.com/joshuaalmari" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" height="18"/> 
-    <b>GitHub:</b> github.com/joshuaalmari
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" height="18"/> 
+  <b>GitHub:</b> <a href="https://github.com/joshuaalmari" target="_blank">github.com/joshuaalmari</a>
 </p>
 
 ---
