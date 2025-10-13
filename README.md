@@ -10,7 +10,7 @@ I'm a licensed Electronics Engineer and Electronics Technician. A <b>Data Analys
 ## 🧰 Tools & Skills
 - **Data Analysis:** Excel, Power Query, SQL, Python (Pandas)
 - **Data Visualization:** Power BI, Google Looker, DOMO
-- **Automation:** Python scripting
+- **Automation:** Python (Selenium, Playwright)
 - **Data Management:** Cleaning, transformation, and performance tracking
 
 ---
