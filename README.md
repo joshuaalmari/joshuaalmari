@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Joshua Almari
+# 👋 Hi, I'm Engr. Joshua Almari, ECT
 
-I'm a **Data Analyst** experienced in reporting, automation, and dashboard development using **Excel, Power Query, SQL, Python, Power BI, Google Looker, and DOMO**.  
+I'm a licensed Electronics Engineer and Electronics Technician. A **Data Analyst** experienced in reporting, automation, and dashboard development using **Excel, Power Query, SQL, Python, Power BI, Google Looker, and DOMO**.  
 I specialize in creating efficient analytics workflows and clear visual reports that help teams make faster, more data-informed decisions.
 
 ---
@@ -8,7 +8,7 @@ I specialize in creating efficient analytics workflows and clear visual reports 
 ## 🧰 Tools & Skills
 - **Data Analysis:** Excel, Power Query, SQL, Python (Pandas)
 - **Data Visualization:** Power BI, Google Looker, DOMO
-- **Automation:** Python scripting, Power Automate
+- **Automation:** Python scripting
 - **Data Management:** Cleaning, transformation, and performance tracking
 
 ---
