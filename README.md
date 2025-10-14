@@ -28,10 +28,10 @@ Welcome to my portfolio! I'm a licensed <b>Electronics Engineer</b> and <b>Elect
 
 ### 🎮 [MPL Season 14 Dashboard – Power BI](https://github.com/joshuaalmari/mpl-season14-powerbi-dashboard)
 <p align="justify">
-An esports analytics dashboard built in <b>Power BI</b> that visualizes <b>Mobile Legends: Bang Bang Professional League (MPL) Philippines Season 14</b> performance data. Includes insights on <b>team standings, hero analytics, KDA ratios, win/loss trends,</b> and <b>objective control</b>. Data extracted from the official MPL website using <b>Python (Beautiful Soup)</b> and standardized in <b>Excel Power Query</b>.
+An esports analytics dashboard built in <b>Power BI</b> that visualizes <b>Mobile Legends: Bang Bang Professional League (MPL) Philippines Season 14</b> performance data. Includes insights on <b>team standings, hero analytics, KDA ratios, win/loss trends,</b> and <b>objective control</b>. Data extracted from the official MPL website using <b>Python (Beautiful Soup)</b> and standardized in <b>Excel</b>.
 </p>
 
-**Tools:** Power BI, Python (Beautiful Soup), Excel Power Query  
+**Tools:** Power BI, Python (Beautiful Soup), Excel
 **Key Features:** Team Metrics · Hero Analytics · Objective Control · Static Data Snapshot (July 2025)  
 
 🔗 [View Project Repository »](https://github.com/joshuaalmari/mpl-season14-powerbi-dashboard)
