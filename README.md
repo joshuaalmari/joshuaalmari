@@ -26,8 +26,30 @@ Welcome to my portfolio! I'm a licensed <b>Electronics Engineer</b> and <b>Elect
 ---
 
 ## 📊 Featured Projects
-🔹 **Production Dashboard (Google Looker + Excel + Python)**  
-A live performance dashboard used by a support team to track metrics like AHT, Adherence, Max Hours, and ACW in real time. Integrated Google Sheets data, automated ETL using Python, and visualized trends in Looker.  
+
+### 🎮 [MPL Season 14 Dashboard – Power BI](https://github.com/joshuaalmari/mpl-season14-powerbi-dashboard)
+<p align="justify">
+An esports analytics dashboard built in <b>Power BI</b> that visualizes <b>Mobile Legends: Bang Bang Professional League (MPL) Philippines Season 14</b> performance data. Includes insights on <b>team standings, hero analytics, KDA ratios, win/loss trends,</b> and <b>objective control</b>. Data extracted from the official MPL website using <b>Python (Beautiful Soup)</b> and standardized in <b>Excel Power Query</b>.
+</p>
+
+**Tools:** Power BI, Python (Beautiful Soup), Excel Power Query  
+**Key Features:** Team Metrics · Hero Analytics · Objective Control · Static Data Snapshot (July 2025)  
+
+🔗 [View Project Repository »](https://github.com/joshuaalmari/mpl-season14-powerbi-dashboard)
+
+---
+
+### 🧑‍💻 [Agent Productivity Dashboard – Google Looker](https://github.com/joshuaalmari/agent-productivity-looker-dashboard)
+<p align="justify">
+A <b>Google Looker</b> dashboard that tracks daily team performance metrics including <b>AHT, Hold Time, Adherence, QA Scores, Offline Activities,</b> and <b>Total Hours</b>. Automates data collection and processing using <b>Python + Playwright</b>, providing <b>daily insights</b> for workflow optimization and team performance improvement.
+</p>
+
+**Tools:** Google Looker, Python (Playwright), Excel, Google Sheets  
+**Key Features:** Automated Data Export · Daily KPI Tracking · Performance Visualization  
+
+🔗 [View Project Repository »](https://github.com/joshuaalmari/agent-productivity-looker-dashboard)
+
+---
 
 🧩 *More projects coming soon!*  
 
