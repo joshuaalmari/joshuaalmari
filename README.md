@@ -21,7 +21,6 @@ Welcome to my portfolio! I'm a licensed <b>Electronics Engineer</b> and <b>Elect
 **Data Analysis:** Excel, Power Query, SQL, Python (Pandas)  
 **Visualization:** Power BI, Google Looker, DOMO  
 **Automation:** Python (Selenium, Playwright)  
-**Other Skills:** Data Cleaning, Workflow Optimization, KPI Design  
 
 ---
 
